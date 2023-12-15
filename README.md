@@ -1,5 +1,6 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&text=h970920's&nbsp;Github&animation=fadeIn&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=slice&text=h970920's&nbsp;Github&fontColor=F6F6F6&animation=fadeIn&fontSize=50)
+
 <div align="center">
   
 
