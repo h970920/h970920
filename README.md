@@ -15,6 +15,10 @@
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=white">
+
+<a href="(https://www.instagram.com/onest_1/)" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h970920)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **h970920/h970920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
