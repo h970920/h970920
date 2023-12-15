@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&text=h970920's&nbsp;Github&fontColor=000000&animation=fadeIn&fontSize=50&rotate=7)
+![header](https://capsule-render.vercel.app/api?type=slice&text=h970920's&nbsp;Github&fontColor=000000&animation=fadeIn&fontSize=50)
 
 <div align="center">
   
