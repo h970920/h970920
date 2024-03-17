@@ -17,6 +17,7 @@
     </div>
 </div>
 
+<!-- 마이바티스 추가할것 -->
 
 <div  style="margin-top: 50px; margin-bottom: 50px;">
  <h2 style="color: #333;">🔨 Technologies 🔨</h2>
